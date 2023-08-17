@@ -1,0 +1,5 @@
+{{#user}
+Name: Zannatul Ferdous
+Skills: HTML, CSS, Bootstrap, Tailwind CSS, JS, React.js, Next.js, Express.js, Node.js, MongoDB, Firebase, Vercel, npm packages. 
+Email: zannatulferdous038@gmail.com
+{{/user}}
